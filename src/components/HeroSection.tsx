@@ -22,8 +22,7 @@ export default function HeroSection() {
         </span>
 
         <h1
-          className="mt-4 whitespace-pre-line text-heading"
-          style={{ fontSize: 56, fontWeight: 300, lineHeight: 1.03, letterSpacing: '-1.4px' }}
+          className="mt-4 whitespace-pre-line text-[32px] font-[300] leading-[1.03] tracking-[-0.64px] text-heading md:text-[56px] md:tracking-[-1.4px]"
         >
           {tx(t.hero.headline, lang)}
         </h1>
