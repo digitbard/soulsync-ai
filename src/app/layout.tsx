@@ -28,6 +28,21 @@ export const metadata: Metadata = {
   title: 'SoulSync AI — AI Implementation Partner',
   description:
     'We help businesses across Asia-Pacific implement practical AI solutions — from strategy and assessment to custom development and deployment.',
+  metadataBase: new URL('https://soulsyncai.com'),
+  openGraph: {
+    title: 'SoulSync AI — AI Implementation Partner',
+    description:
+      'Practical AI solutions for businesses across Asia-Pacific. Strategy, custom development, and deployment.',
+    siteName: 'SoulSync AI',
+    locale: 'en_US',
+    type: 'website',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'SoulSync AI — AI Implementation Partner',
+    description:
+      'Practical AI solutions for businesses across Asia-Pacific. Strategy, custom development, and deployment.',
+  },
 };
 
 export default function RootLayout({
