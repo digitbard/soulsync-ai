@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   title: 'SoulSync AI — AI Implementation Partner',
   description:
     'We help businesses across Asia-Pacific implement practical AI solutions — from strategy and assessment to custom development and deployment.',
-  metadataBase: new URL('https://soulsyncai.com'),
+  metadataBase: new URL('https://ai.soulsync.today'),
   openGraph: {
     title: 'SoulSync AI — AI Implementation Partner',
     description:
