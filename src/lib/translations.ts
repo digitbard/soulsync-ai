@@ -128,7 +128,7 @@ const t = {
     },
   },
   footer: {
-    copy: { en: '© 2024 SoulSync AI. All rights reserved.', ja: '© 2024 SoulSync AI. All rights reserved.' },
+    copy: { en: '© 2025 SoulSync AI. All rights reserved.', ja: '© 2025 SoulSync AI. All rights reserved.' },
   },
 } as const;
 

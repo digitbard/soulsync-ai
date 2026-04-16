@@ -20,7 +20,7 @@ export default function Nav() {
       style={{ background: 'rgba(255,255,255,0.85)', backdropFilter: 'blur(12px)' }}
     >
       <div className="mx-auto flex h-full max-w-[1080px] items-center justify-between px-5">
-        <a href="#" className="text-[18px] font-[400] tracking-[-0.22px] text-deep-navy">
+        <a href="/" className="text-[18px] font-[400] tracking-[-0.22px] text-deep-navy">
           SoulSync AI
         </a>
 
