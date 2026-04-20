@@ -62,7 +62,7 @@ const jsonLd = {
   areaServed: 'Asia-Pacific',
   contactPoint: {
     '@type': 'ContactPoint',
-    email: 'hello@soulsyncai.com',
+    email: 'hello@soulsync.today',
     contactType: 'sales',
   },
 };

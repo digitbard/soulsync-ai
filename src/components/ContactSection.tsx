@@ -70,7 +70,7 @@ export default function ContactSection() {
               <h3 className="text-[14px] font-[400] text-label">
                 {tx(t.contact.info.emailLabel, lang)}
               </h3>
-              <p className="mt-1 text-[16px] font-[300] text-heading">hello@soulsyncai.com</p>
+              <p className="mt-1 text-[16px] font-[300] text-heading">hello@soulsync.today</p>
             </div>
             <div>
               <h3 className="text-[14px] font-[400] text-label">
